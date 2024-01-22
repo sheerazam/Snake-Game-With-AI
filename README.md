@@ -18,16 +18,16 @@ You can find the code in [SnakeGame.cpp](https://github.com/wajahatkarim3/SnakeG
 
 ## Developed By
 ```
-Wajahat Karim
+Sheeraz Ahmed Memon
 ```
-- Website (http://wajahatkarim.com)
-- Twitter (http://twitter.com/wajahatkarim)
-- Medium (http://www.medium.com/@wajahatkarim3)
-- LinkedIn (http://www.linkedin.com/in/wajahatkarim)
+- Website (http://sheerazmemon.com)
+- Twitter (https://twitter.com/SheerazAMemon)
+- Medium (https://sheerazmemonway.medium.com/)
+- LinkedIn (https://www.linkedin.com/in/sheerazahmedmemon/)
 
 # License
 
-    Copyright 2017 Wajahat Karim
+    Copyright 2017 Sheeraz Ahmed Memon
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
